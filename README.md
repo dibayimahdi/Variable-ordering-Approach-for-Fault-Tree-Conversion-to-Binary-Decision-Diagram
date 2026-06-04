@@ -1,3 +1,10 @@
+This project is the research prototype of FAUTree.
+
+Full production implementation:
+
+https://github.com/dibayimahdi/FAUTree)
+
+
 # BDD-Based Fault Tree Analysis using `dd` Library
 
 This repository contains Python scripts and datasets used in our paper:
